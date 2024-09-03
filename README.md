@@ -3,6 +3,8 @@ Klnwash
 Klnwash is a mobile application designed to streamline the laundry process for users. It allows users to request laundry services, track their orders, process payments, and receive their cleaned clothes efficiently.
 
 Mobile App URL : https://play.google.com/store/apps/details?id=com.okaye.klnwashMobileApp
+
+
 Features
 
     User Requests: Users can submit requests for laundry services, specifying details such as pick-up location and type of laundry.
