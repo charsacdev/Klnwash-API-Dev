@@ -1,0 +1,23 @@
+---
+engines:
+  duplication:
+    enabled: true
+    config:
+      languages:
+      - php
+  fixme:
+    enabled: true
+  phpcodesniffer:
+    enabled: true
+  phpmd:
+    enabled: true
+    checks:
+      Design/LongParameterList:
+        enabled: false
+ratings:
+  paths:
+  - "**.php"
+exclude_paths:
+- .idea/
+- tests/
+- vendor/

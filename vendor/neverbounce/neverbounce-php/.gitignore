@@ -1,0 +1,5 @@
+/vendor/
+/example/
+.idea
+composer.lock
+.api-key.php
